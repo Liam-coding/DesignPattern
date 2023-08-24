@@ -1,7 +1,7 @@
-package org.itstack.design_absturctFactory.factory.impl;
+package org.itstack.design_abstractFactory.factory.impl;
 
-import org.itstack.design_absturctFactory.factory.specImpl.EGM;
-import org.itstack.design_absturctFactory.factory.ICacheAdapter;
+import org.itstack.design_abstractFactory.factory.specImpl.EGM;
+import org.itstack.design_abstractFactory.factory.ICacheAdapter;
 
 import java.util.concurrent.TimeUnit;
 

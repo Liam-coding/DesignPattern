@@ -1,4 +1,4 @@
-package org.itstack.design_absturctFactory.factory;
+package org.itstack.design_abstractFactory.factory;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

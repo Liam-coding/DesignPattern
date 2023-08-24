@@ -1,6 +1,6 @@
-package org.itstack.design_absturctFactory.impl;
+package org.itstack.design_abstractFactory.impl;
 
-import org.itstack.design_absturctFactory.CacheService;
+import org.itstack.design_abstractFactory.CacheService;
 
 import java.util.concurrent.TimeUnit;
 

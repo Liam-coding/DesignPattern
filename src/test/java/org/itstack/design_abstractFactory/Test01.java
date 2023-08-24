@@ -1,9 +1,9 @@
-package org.itstack.design_absturctFactory;
+package org.itstack.design_abstractFactory;
 
-import org.itstack.design_absturctFactory.factory.JDKProxy;
-import org.itstack.design_absturctFactory.factory.impl.EGMCacheAdapter;
-import org.itstack.design_absturctFactory.factory.impl.IIRCacheAdapter;
-import org.itstack.design_absturctFactory.impl.CacheServiceImpl;
+import org.itstack.design_abstractFactory.factory.JDKProxy;
+import org.itstack.design_abstractFactory.factory.impl.EGMCacheAdapter;
+import org.itstack.design_abstractFactory.factory.impl.IIRCacheAdapter;
+import org.itstack.design_abstractFactory.impl.CacheServiceImpl;
 import org.junit.jupiter.api.Test;
 
 public class Test01 {

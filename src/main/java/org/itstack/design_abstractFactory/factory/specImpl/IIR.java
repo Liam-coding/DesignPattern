@@ -1,4 +1,4 @@
-package org.itstack.design_absturctFactory.factory.specImpl;
+package org.itstack.design_abstractFactory.factory.specImpl;
 
 import java.util.HashMap;
 import java.util.Map;

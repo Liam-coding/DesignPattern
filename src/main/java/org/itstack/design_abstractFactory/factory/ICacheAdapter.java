@@ -1,4 +1,4 @@
-package org.itstack.design_absturctFactory.factory;
+package org.itstack.design_abstractFactory.factory;
 
 import java.util.concurrent.TimeUnit;
 
