@@ -12,6 +12,7 @@ repositories {
 dependencies {
     testImplementation(platform("org.junit:junit-bom:5.9.1"))
     testImplementation("org.junit.jupiter:junit-jupiter")
+    testImplementation("junit:junit:4.13.1")
     compileOnly("org.projectlombok:lombok:1.18.24")
     implementation("com.alibaba.fastjson2:fastjson2:2.0.39")
     // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
