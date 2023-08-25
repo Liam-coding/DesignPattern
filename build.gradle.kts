@@ -18,6 +18,10 @@ dependencies {
     testImplementation("ch.qos.logback:logback-classic:1.4.8")
     // https://mvnrepository.com/artifact/org.slf4j/slf4j-api
     implementation("org.slf4j:slf4j-api:2.0.7")
+    // https://mvnrepository.com/artifact/org.springframework/spring-test
+    // https://mvnrepository.com/artifact/org.springframework/spring-core
+    implementation("org.springframework:spring-core:6.0.11")
+
 }
 
 tasks.test {
