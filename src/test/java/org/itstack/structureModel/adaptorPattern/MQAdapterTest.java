@@ -1,4 +1,4 @@
-package org.itstack.structureModel;
+package org.itstack.structureModel.adaptorPattern;
 
 import com.alibaba.fastjson2.JSON;
 import org.itstack.structureModel.adaptor.MQAdapter;

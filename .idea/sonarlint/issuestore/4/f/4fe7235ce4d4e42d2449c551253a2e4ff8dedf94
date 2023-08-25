@@ -1,0 +1,15 @@
+
+g
+java:S1192R"EDefine a constant instead of duplicating this literal "\r
+
+" 4 times.(›Ÿ×üÿÿÿÿ8ü±º°¢1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( åó¯ıÿÿÿÿ8‚²º°¢1
+p
+java:S2975@"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8Š²º°¢1
+h
+java:S1117G"FRename "choiceQuestionList" which hides the field declared at line 15.(Õ›€Úûÿÿÿÿ8Œ²º°¢1
+P
+java:S2864V"4Iterate over the "entrySet" instead of the "keySet".(¯³‰8²º°¢1
+T
+java:S6126["2Replace this String concatenation with Text block.(ıî‡Õÿÿÿÿÿ8‘²º°¢1
