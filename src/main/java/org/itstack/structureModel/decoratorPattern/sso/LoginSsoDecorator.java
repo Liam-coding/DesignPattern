@@ -1,4 +1,4 @@
-package org.itstack.structureModel.decoratorPattern;
+package org.itstack.structureModel.decoratorPattern.sso;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

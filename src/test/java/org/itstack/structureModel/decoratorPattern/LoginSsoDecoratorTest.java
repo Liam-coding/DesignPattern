@@ -1,5 +1,7 @@
 package org.itstack.structureModel.decoratorPattern;
 
+import org.itstack.structureModel.decoratorPattern.sso.LoginSsoDecorator;
+import org.itstack.structureModel.decoratorPattern.sso.SsoInterceptor;
 import org.junit.jupiter.api.Test;
 
 public class LoginSsoDecoratorTest {

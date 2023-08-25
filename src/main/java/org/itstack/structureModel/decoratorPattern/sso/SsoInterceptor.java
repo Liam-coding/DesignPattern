@@ -1,4 +1,4 @@
-package org.itstack.structureModel.decoratorPattern;
+package org.itstack.structureModel.decoratorPattern.sso;
 
 public class SsoInterceptor implements HandlerInterceptor{
     @Override
