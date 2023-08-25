@@ -1,4 +1,4 @@
-package org.itstack.structureModel.proxyPattern;
+package org.itstack.structureModel.proxyPattern.staticProxy;
 
 public class ProxyPatternDemo {
     public static void main(String[] args) {
