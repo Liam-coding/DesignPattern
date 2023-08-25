@@ -1,0 +1,4 @@
+itstack:
+  door:
+    enabled: true
+    userStr: 1001,aaaa,ccc
