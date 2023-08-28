@@ -1,0 +1,8 @@
+<mapper namespace="org.itstack.demo.design.dao.ISchoolDao">
+    <select id="querySchoolInfoById"
+            resultType="org.itstack.demo.design.po.School">
+        SELECT id, name, address, createTime, updateTime
+        FROM school
+        where id = #{id}
+    </select>
+</mapper>
