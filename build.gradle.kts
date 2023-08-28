@@ -21,6 +21,9 @@ dependencies {
     // https://mvnrepository.com/artifact/org.springframework/spring-test
     // https://mvnrepository.com/artifact/org.springframework/spring-core
     implementation("org.springframework:spring-core:6.0.11")
+    // https://mvnrepository.com/artifact/commons-codec/commons-codec
+    implementation("commons-codec:commons-codec:1.15")
+
 
 }
 
