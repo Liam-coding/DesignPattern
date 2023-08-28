@@ -1,8 +1,6 @@
-package org.itstack.structureModel.commandPattern.cook.impl;
+package org.itstack.behavioralPattern.commandPattern.cook.impl;
 
-import org.itstack.structureModel.commandPattern.cook.ICook;
-
-import java.sql.SQLOutput;
+import org.itstack.behavioralPattern.commandPattern.cook.ICook;
 
 public class GuangDongCook implements ICook {
     @Override

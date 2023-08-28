@@ -1,7 +1,7 @@
-package org.itstack.structureModel.commandPattern.cuisine.impl;
+package org.itstack.behavioralPattern.commandPattern.cuisine.impl;
 
-import org.itstack.structureModel.commandPattern.cook.ICook;
-import org.itstack.structureModel.commandPattern.cuisine.ICuisine;
+import org.itstack.behavioralPattern.commandPattern.cook.ICook;
+import org.itstack.behavioralPattern.commandPattern.cuisine.ICuisine;
 
 public class JiangSuCuisine implements ICuisine {
     private ICook cook;

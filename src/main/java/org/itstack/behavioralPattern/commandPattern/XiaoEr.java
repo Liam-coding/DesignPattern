@@ -1,6 +1,6 @@
-package org.itstack.structureModel.commandPattern;
+package org.itstack.behavioralPattern.commandPattern;
 
-import org.itstack.structureModel.commandPattern.cuisine.ICuisine;
+import org.itstack.behavioralPattern.commandPattern.cuisine.ICuisine;
 
 import java.util.ArrayList;
 import java.util.List;

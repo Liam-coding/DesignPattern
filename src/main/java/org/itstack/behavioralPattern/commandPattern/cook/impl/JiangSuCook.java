@@ -1,6 +1,6 @@
-package org.itstack.structureModel.commandPattern.cook.impl;
+package org.itstack.behavioralPattern.commandPattern.cook.impl;
 
-import org.itstack.structureModel.commandPattern.cook.ICook;
+import org.itstack.behavioralPattern.commandPattern.cook.ICook;
 
 public class JiangSuCook implements ICook {
 
